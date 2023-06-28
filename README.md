@@ -1,3 +1,3 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Actisense](https://github.com/actisense/.github/images/GithubActisenseLogo.jpg) 
 
 # Actisense - Data Delivered - Beautifully
