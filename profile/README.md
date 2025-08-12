@@ -2,6 +2,18 @@
 
 # Actisense - Convert - Digitise - Share
 
+# Social
+
+## [Linkedin](https://www.linkedin.com/company/active-research-limited/)
+
+## [Facebook](https://www.facebook.com/ActisenseNews/)
+
+## [Instagram](https://www.instagram.com/actisense_activeresearch/)
+
+## [Youtub](https://www.youtube.com/channel/UC0CaZ_fCXNks_2P1AjtqxKw)
+
+## [X](https://x.com/Actisense)
+
 <!--
 
 **Here are some ideas to get you started:**
