@@ -10,7 +10,7 @@
 
 ## [Instagram](https://www.instagram.com/actisense_activeresearch/)
 
-## [Youtub](https://www.youtube.com/channel/UC0CaZ_fCXNks_2P1AjtqxKw)
+## [Youtube](https://www.youtube.com/channel/UC0CaZ_fCXNks_2P1AjtqxKw)
 
 ## [X](https://x.com/Actisense)
 
