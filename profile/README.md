@@ -2,6 +2,16 @@
 
 # Actisense - Convert - Digitise - Share
 
+The Actisense Github site is how we share code, examples, documentation and more with our valued customers.
+
+You can see our range of award winning sensors and interfaces at www.actisense.com
+
+All of our digital products run various forms of API (Application Programming Interface) and this site shares code that you can integrate into your products to access our product APIs, and thus integrate our powerful networking and conversion technology into your systems. Whether you're a large system integrator or a keen sailor who wants to power up their vessel's abilities, welcome!
+
+# Repositories included within Actisense Github site are:
+
+- [SDK](https://github.com/Actisense/SDK) - This is our main Actisense SDK site
+
 # Social
 
 ## [Linkedin](https://www.linkedin.com/company/active-research-limited/)
