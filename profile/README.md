@@ -10,7 +10,9 @@ All of our digital products run various forms of API (Application Programming In
 
 # Repositories included within Actisense Github site are:
 
-- [SDK](https://github.com/Actisense/SDK) - This is our main Actisense SDK site. This site provides different way to connect, control and integrate our devices across many platforms.
+## [SDK](https://github.com/Actisense/SDK) 
+* This is our main Actisense SDK site.
+* This site provides different way to connect, control and integrate our devices across many platforms.
 
 # Social
 
